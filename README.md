@@ -1,4 +1,5 @@
 # RedditClone
+![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)
 
 RedditClone is a Java web application built with the Spring Framework, aiming to replicate some of the core functionalities of the popular social news aggregation and discussion website, Reddit.
 
